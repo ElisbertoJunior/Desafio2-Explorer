@@ -10,7 +10,7 @@
 <br>
 
 # Features 
-- [x]  Layout do Desafio 2 da segunada semana do Programa Explorer
+- [x]  Layout do Desafio 2 da segunda semana do Programa Explorer
 
 <br>
 
